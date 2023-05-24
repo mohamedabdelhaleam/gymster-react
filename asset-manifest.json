@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/gymster-react/static/css/main.31d6cfe0.css",
+    "main.js": "/gymster-react/static/js/main.cf3e792d.js",
+    "index.html": "/gymster-react/index.html",
+    "main.cf3e792d.js.map": "/gymster-react/static/js/main.cf3e792d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.cf3e792d.js"
+  ]
+}
